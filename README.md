@@ -16,3 +16,9 @@ ____________________________________________
 ### ✔ Cypress + JS 
 
  [Примеры](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+
+_______________________________________________________________________________________________________________________________________
+
+### ✔ Python-Selenium-Allure 
+
+ [Примеры](https://github.com/ViktoryiaKaplunHryts/Python-Selenium-Allure/blob/main/selenium2.0/test/test_main.py)
